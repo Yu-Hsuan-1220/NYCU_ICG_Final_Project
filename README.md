@@ -2,10 +2,6 @@
 
 [Demo video](https://youtu.be/rK46j1RQTGY)
 
-## How to build
-
-Put all the file and folder into a same directory and build it using the same way as what we did in HW0 ~ HW3
-
 ## Camera Movement
 
 **W/S/A/D:**  move foward/backward/left/right
